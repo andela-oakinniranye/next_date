@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{ This gem adds methods to the Date class that allows you to call something like the `next_thursday`}
   spec.description   = %q{ Allows you to traverse a date object to the next day specified}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/andela-oakinniranye/next_date"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
